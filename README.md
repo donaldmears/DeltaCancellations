@@ -1,0 +1,1 @@
+Quick exploration of Delta's cancellation history between 2010 and 2018.  During this time, obvious improvements were made to reduce cancellations. This analysis begins to evaluate what happened to long delays (four or more hours) as a result.  Did the reduction in cancellations drive an increase in long delays?
